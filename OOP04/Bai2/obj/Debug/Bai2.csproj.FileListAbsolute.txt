@@ -1,0 +1,7 @@
+D:\Thang\OOP04\Bai2\bin\Debug\Bai2.exe.config
+D:\Thang\OOP04\Bai2\bin\Debug\Bai2.exe
+D:\Thang\OOP04\Bai2\bin\Debug\Bai2.pdb
+D:\Thang\OOP04\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\Thang\OOP04\Bai2\obj\Debug\Bai2.exe
+D:\Thang\OOP04\Bai2\obj\Debug\Bai2.pdb
+D:\Thang\OOP04\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache

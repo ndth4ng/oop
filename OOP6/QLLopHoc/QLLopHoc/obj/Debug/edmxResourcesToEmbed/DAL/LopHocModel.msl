@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LopHocModelStoreContainer" CdmEntityContainer="LopHocEntities2">
+    <EntitySetMapping Name="LOPHOCs">
+      <EntityTypeMapping TypeName="LopHocModel.LOPHOC">
+        <MappingFragment StoreEntitySet="LOPHOC">
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+          <ScalarProperty Name="TENLOP" ColumnName="TENLOP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SINHVIENs">
+      <EntityTypeMapping TypeName="LopHocModel.SINHVIEN">
+        <MappingFragment StoreEntitySet="SINHVIEN">
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="TENSV" ColumnName="TENSV" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="TUOI" ColumnName="TUOI" />
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

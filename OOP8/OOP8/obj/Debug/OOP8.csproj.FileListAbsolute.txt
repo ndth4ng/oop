@@ -1,0 +1,7 @@
+D:\Thang\Bai1\OOP8\obj\Debug\OOP8.csprojAssemblyReference.cache
+D:\Thang\Bai1\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+D:\Thang\Bai1\OOP8\bin\Debug\OOP8.exe.config
+D:\Thang\Bai1\OOP8\bin\Debug\OOP8.exe
+D:\Thang\Bai1\OOP8\bin\Debug\OOP8.pdb
+D:\Thang\Bai1\OOP8\obj\Debug\OOP8.exe
+D:\Thang\Bai1\OOP8\obj\Debug\OOP8.pdb
